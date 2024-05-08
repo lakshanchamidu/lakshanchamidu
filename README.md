@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hello there! I'm Chamidu, a first-year student at a university who is enthusiastic about software engineering and ready to advance in the discipline. Here is my GitHub profile, welcome!<br><br>🎓 About Who I Am:<br><br><br>📚 Currently working toward a software engineering bachelor's degree.<br><br>💻 Passionate in developing creative software solutions, solving problems, and coding.<br><br>🌱 Always researching and learning new programming languages and technologies.</p>
+<p align="left">👋 Hello there! I'm Chamidu, a first-year student at a university who is enthusiastic about software engineering and ready to advance in the discipline. Here is my GitHub profile, welcome!<br><br>🎓 About Who I Am:<br><br><br>📚 Currently studying toward a software engineering bachelor's degree.<br><br>💻 Passionate in developing creative software solutions, solving problems, and coding.<br><br>🌱 Always researching and learning new programming languages and technologies.</p>
 
 ###
 
