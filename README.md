@@ -1,237 +1,207 @@
-<!-- Arcade Game Interface Style - Clean Version -->
+<!-- Design 4: Ultra Modern Professional -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,15,16,17,18&height=200&section=header&text=🕹️%20CHAMIDU%20LAKSHAN%20🕹️&fontSize=35&fontColor=ffffff&fontAlign=50&fontAlignY=60&desc=▲%20HIGH%20SCORE%20DEVELOPER%20▲&descAlign=50&descAlignY=80&animation=blinking"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=CHAMIDU%20LAKSHAN&fontSize=50&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=Fullstack%20Developer%20•%20Software%20Engineer%20•%20Tech%20Innovator&descAlign=50&descAlignY=60&animation=fadeIn"/>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=24&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=800&lines=INSERT+COIN+TO+CONTINUE...;PLAYER+1%3A+CHAMIDU;GAME+START!;HIGH+SCORE%3A+999999" alt="Arcade Start" />
-</div>
-
----
-
-## 🎮 **PLAYER SELECT SCREEN**
+<br/>
 
 <div align="center">
-
-```
-██████████████████████████████████████████████████████
-██                                                  ██
-██  🕹️  A R C A D E   P L A Y E R   S E L E C T  🕹️  ██
-██                                                  ██
-██████████████████████████████████████████████████████
-██                                                  ██
-██  👾 NAME: CHAMIDU LAKSHAN                        ██
-██  🎯 CLASS: FULL-STACK DEVELOPER                  ██  
-██  🏆 RANK: CODING CHAMPION                        ██
-██  🌍 STAGE: SRI LANKA                             ██
-██  ⚡ STATUS: [READY] - GAME ON!                   ██
-██  🔥 STREAK: 365 DAYS                             ██
-██                                                  ██
-██████████████████████████████████████████████████████
-██           PRESS START TO CONTINUE                ██
-██████████████████████████████████████████████████████
-```
-
+  
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=const+developer+%3D+%7B;++name%3A+'Chamidu+Lakshan'%2C;++role%3A+'Fullstack+Developer';%7D%3B" alt="Typing SVG" />
+  
 </div>
 
 ---
 
-## 🏆 **HIGH SCORE TABLE**
+<table>
+<tr>
+<td width="50%" valign="top">
 
+## 🎯 **ABOUT ME**
+
+```typescript
+interface Developer {
+  name: string;
+  education: string;
+  location: string;
+  specialization: string[];
+  currentFocus: string[];
+}
+
+const chamidu: Developer = {
+  name: "Chamidu Lakshan",
+  education: "Software Engineering (3rd Year)",
+  location: "Sri Lanka 🇱🇰",
+  specialization: [
+    "Full-Stack Development",
+    "Mobile App Development", 
+    "UI/UX Design",
+    "Database Design"
+  ],
+  currentFocus: [
+    "Cloud Technologies",
+    "DevOps Practices",
+    "System Architecture",
+    "Open Source Contribution"
+  ]
+};
 ```
-╔═══════════════════════════════════╗
-║         🎮 TOP SCORES 🎮          ║
-╠═══════════════════════════════════╣
-║                                   ║
-║  1ST  CHA  999,999  JAVA MASTER   ║
-║  2ND  CHA  888,888  JS WIZARD     ║
-║  3RD  CHA  777,777  REACT HERO    ║
-║  4TH  CHA  666,666  PYTHON KING   ║
-║  5TH  CHA  555,555  MOBILE ACE    ║
-║                                   ║
-╚═══════════════════════════════════╝
-```
+
+</td>
+<td width="50%" valign="top">
+
+## 📊 **GITHUB METRICS**
+
+<img src="https://github-readme-stats.vercel.app/api?username=lakshanchamidu&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_radius=8" width="100%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshanchamidu&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FFA500&currStreakNum=C9D1D9&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&border_radius=8" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔋 **POWER-UP STATUS**
-
-**⚡ ACTIVE POWER-UPS:**
-- 🚀 **Code Boost** - 2x Programming Speed
-- 🛡️ **Debug Shield** - Bug Protection  
-- 💎 **Skill Gem** - Learning Accelerator
-- 🔥 **Combo Multiplier** - Project Chain
-- ⭐ **Star Power** - Unlimited Energy
-
----
-
-## 🎯 **CURRENT COMBO**
-
-```
-COMBO × 47
-████████████████████
-C-O-D-I-N-G  M-A-S-T-E-R
-████████████████████
-AWESOME! KEEP IT UP!
-```
-
----
-
-## 📊 **GAME STATS**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshanchamidu&show_icons=true&theme=synthwave&hide_border=true&bg_color=000428&title_color=00FFFF&icon_color=FF1493&text_color=ffffff&border_radius=10" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshanchamidu&theme=synthwave&hide_border=true&background=000428&stroke=00FFFF&ring=FF1493&fire=FFD700&currStreakNum=ffffff&border_radius=10" width="45%"/>
-</div>
-
----
-
-## 🎮 **CONTROLLER INPUT**
-
-```
-┌─────────────────────────────┐
-│    🎮 PLAYER CONTROLS 🎮    │
-├─────────────────────────────┤
-│                             │
-│  ↑ W    - Write Code        │
-│ ← A D → - Navigate Stack    │  
-│  ↓ S    - Debug Systems     │
-│                             │
-│ 🅰 SPACE - Deploy App       │
-│ 🅱 ENTER - Commit Changes   │
-│                             │
-└─────────────────────────────┘
-```
-
----
-
-## 🎪 **SKILL ARCADE**
+## 🛠️ **TECHNOLOGY STACK**
 
 <div align="center">
 
-### 🎯 **PROGRAMMING GAMES MASTERED**
+### **Core Technologies**
 
-![Java](https://img.shields.io/badge/🔥_JAVA_FIGHTER-FF4500?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/⚡_JS_RACER-FFD700?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/💎_TS_PUZZLE-4682B4?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/🐍_PYTHON_SNAKE-32CD32?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/🎮_KOTLIN_QUEST-9932CC?style=for-the-badge&logo=kotlin&logoColor=white)
+<table>
+<tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+        <br>Java
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+        <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+        <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+        <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
+        <br>Kotlin
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+        <br>PHP
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="Ruby" />
+        <br>Ruby
+    </td>
+</tr>
+</table>
 
-### 🎨 **FRONTEND ARCADE**
+### **Frontend & UI**
 
-![React](https://img.shields.io/badge/⚛️_REACT_SPINNER-00CED1?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/🏗️_HTML_BUILDER-FF6347?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/🎨_CSS_PAINTER-FF69B4?style=for-the-badge&logo=css3&logoColor=white)
+<table>
+<tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+        <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+        <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+        <br>CSS3
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+        <br>Figma
+    </td>
+</tr>
+</table>
 
-### 🕹️ **BACKEND BATTLE**
+### **Backend & Database**
 
-![Spring Boot](https://img.shields.io/badge/🌱_SPRING_SAGA-7CFC00?style=for-the-badge&logo=spring&logoColor=white)
-![Flask](https://img.shields.io/badge/🧪_FLASK_LAB-000000?style=for-the-badge&logo=flask&logoColor=white)
+<table>
+<tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" />
+        <br>Spring
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+        <br>Flask
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+        <br>MongoDB
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+        <br>MySQL
+    </td>
+</tr>
+</table>
 
-### 📱 **MOBILE MACHINES**
+### **Mobile & Tools**
 
-![Flutter](https://img.shields.io/badge/🦋_FLUTTER_FLY-87CEEB?style=for-the-badge&logo=flutter&logoColor=black)
-![Android Studio](https://img.shields.io/badge/🤖_ANDROID_ARENA-9ACD32?style=for-the-badge&logo=android-studio&logoColor=white)
-
-### 💾 **DATA BASE DEFENDERS**
-
-![MongoDB](https://img.shields.io/badge/🍃_MONGO_MAZE-228B22?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/🐬_SQL_SPLASH-4169E1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
----
-
-## 🏅 **ACHIEVEMENT CABINET**
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════╗
-║                    🏆 TROPHY ROOM 🏆                     ║
-╠═══════════════════════════════════════════════════════════╣
-║                                                           ║
-║  🥇 PERFECT COMBO!        Complete 50 projects in a row  ║
-║  🥈 SPEED DEMON          Deploy in under 10 minutes      ║
-║  🥉 BUG CRUSHER          Fix 100 bugs without breaking   ║
-║  🏅 TEAM PLAYER          5-star collaboration rating     ║
-║  🎖️ CODE WARRIOR         Write 10,000+ lines of code    ║
-║  🏆 GRAND CHAMPION       Master multiple tech stacks     ║
-║                                                           ║
-║  🌟 SPECIAL AWARDS:                                       ║
-║  ─────────────────────────                               ║
-║                                                           ║
-║  💫 Night Owl Coder      Code sessions past midnight     ║
-║  ☕ Caffeine Powered     Survived on coffee alone        ║
-║  🔥 Hot Streak          30-day coding streak            ║
-║  🚀 Rapid Deployment    Same-day feature delivery        ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## 🎯 **CURRENT MISSIONS**
-
-<div align="center">
-
-```
-███████████████████████████████████████████████████████████
-██                                                       ██
-██  🎮 M I S S I O N   C O N T R O L   C E N T E R 🎮   ██
-██                                                       ██
-███████████████████████████████████████████████████████████
-██                                                       ██
-██  🎯 MISSION 1: Full-Stack Mastery                     ██
-██     Progress: ████████████████░░░░ 80%               ██
-██     Reward: 🏆 10,000 XP + Master Badge              ██
-██                                                       ██
-██  📱 MISSION 2: Mobile App Conquest                    ██
-██     Progress: ██████████████░░░░░░ 70%               ██
-██     Reward: 🎖️ 7,500 XP + Mobile Crown              ██
-██                                                       ██
-██  ☁️ MISSION 3: Cloud Kingdom Challenge               ██
-██     Progress: ██████████░░░░░░░░░░ 50%               ██
-██     Reward: ☁️ 5,000 XP + Cloud Key                 ██
-██                                                       ██
-██  🤝 BONUS: Open Source Alliance                       ██
-██     Progress: ████████░░░░░░░░░░░░ 40%               ██
-██     Reward: 🌟 3,000 XP + Community Badge           ██
-██                                                       ██
-███████████████████████████████████████████████████████████
-██              PRESS START TO CONTINUE                  ██
-███████████████████████████████████████████████████████████
-```
+<table>
+<tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+        <br>Flutter
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" />
+        <br>Android Studio
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+        <br>VS Code
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ IDEA" />
+        <br>IntelliJ
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+        <br>Git
+    </td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📈 **LEADERBOARD STATISTICS**
+## 📈 **DEVELOPMENT INSIGHTS**
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshanchamidu&layout=compact&theme=synthwave&hide_border=true&bg_color=000428&title_color=00FFFF&text_color=ffffff&border_radius=10"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=16&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=700&lines=🎮+Calculating+high+scores...;🏆+Updating+leaderboards...;⚡+Processing+power-ups...;🌟+LEGENDARY+PERFORMANCE!" alt="Score Calculation" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshanchamidu&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=8"/>
 </div>
 
 ---
 
-## 🕹️ **MULTIPLAYER LOBBY**
+## 🌐 **CONNECT & COLLABORATE**
 
 <div align="center">
 
-### 🤝 **JOIN MY ARCADE**
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamidu-lakshan-482124320/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/chamidu.____?igsh=Y24xeWVldzMzandz&utm_source=qr)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║                   🎮 MULTIPLAYER LOBBY 🎮                ║
-╠═══════════════════════════════════════════════════════════╣
-║                                                           ║
-║  Players Online: 1 (Looking for Co-op Partners!)         ║
-║                                                           ║
-║
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=lakshanchamidu&color=58a6ff&style=for-the-badge&label=VISITORS)
+
+</div>
+
+---
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlign=50&fontAlignY=75&fontColor=ffffff&animation=fadeIn"/>
+</div>
